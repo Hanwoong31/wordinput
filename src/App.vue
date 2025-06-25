@@ -9,7 +9,7 @@
 import WordInput from './components/WordInput.vue'
 
 export default {
-  components: {
+  components: {~
     WordInput
   }
 }
