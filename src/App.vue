@@ -5,12 +5,6 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import WordInput from './components/WordInput.vue'
-
-export default {
-  components: {~
-    WordInput
-  }
-}
 </script>
